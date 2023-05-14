@@ -1,4 +1,4 @@
-### Hi, I'm Shokhruz Isroilov <img src="https://media2.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=ecf05e47yugadks4xubnr230k4m1yblkvyd3yvnr9a61wsce&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Hello" width='30px'>
+### Hi, I'm Shokhruz Isroilov <img src="[https://media2.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=ecf05e47yugadks4xubnr230k4m1yblkvyd3yvnr9a61wsce&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media.tenor.com/2CC_MxnlCwEAAAAM/shake-hand.gif)" alt="Hello" width='30px'>
 
 <!--
 **shokhruzisroilov/shokhruzisroilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
