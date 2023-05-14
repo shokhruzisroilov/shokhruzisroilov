@@ -1,4 +1,4 @@
-### Hi, I'm Shokhruz Isroilov <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello" width='30px'>
+### Hi, I'm Shokhruz Isroilov <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello" width='27px'>
 
 <!--
 **shokhruzisroilov/shokhruzisroilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
