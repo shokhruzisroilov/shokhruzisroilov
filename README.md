@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shokhruz</h1>
 <h3 align="center">I'm frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Orginaluz-website-e-commerse](https://github.com/shokhruzisroilov/orginaluz-website-e-commerse.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shokhruzisroilov?tab=repositories](https://github.com/shokhruzisroilov?tab=repositories)
 
