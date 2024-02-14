@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov" alt="shokhruzisroilov" /></a> </p>
 
-- 💻 I’m currently working on Freelancer Team named [ExcelLanceTeam 🇺🇿](https://excellance-team.vercel.app/)
+- 💻 I’m currently working on Freelancer Team named [ExcelLanceTeam](https://excellance-team.vercel.app/)
 
 - 🔭 I’m currently working on [E-commerse website](https://orginal-uz-e-commerse.vercel.app/)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Nodejs**
 
 - 🔭 I’m currently working on [Owa Books CRUD website](https://owa-books-frontend.vercel.app/)
 
