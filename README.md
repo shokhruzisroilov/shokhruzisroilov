@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [E-commerse website](https://orginal-uz-e-commerse.vercel.app/)
 
-- 🌱 I’m currently learning **Backend Nodejs**
-
 - 🔭 I’m currently working on [Owa Books CRUD website](https://owa-books-frontend.vercel.app/)
+
+- 🌱 I’m currently learning **Backend Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://shohruzisroilov.uz/](https://shohruzisroilov.uz/)
 
