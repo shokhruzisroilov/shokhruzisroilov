@@ -16,7 +16,7 @@
 - 💬 **Ask me about:** HTML, CSS, SCSS, Bootstrap, Tailwind CSS, JavaScript, React.js, TypeScript, Next.js, Node.js, Express.js, MongoDB
 
 - 📫 **Contact me at:**
-  - [Telegram](https://t.me/shokhruzisroilov)
+  - [Telegram](https://t.me/shohruz_isroilov)
   - [LinkedIn](https://www.linkedin.com/in/shokhruzisroilov/)
   - [YouTube](https://www.youtube.com/@shokhruzisroilov)
 
