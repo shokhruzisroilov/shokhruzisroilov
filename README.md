@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html, Css, Scss, Bootstrap, JavaScript, React, Redux**
 
-- 📫 How to reach me **shohruzweb@gmail.com**
+- 📫 How to reach me **shokhruzisroilov@mail.ru**
 
 - 📄 Know about my experiences [https://t.me/shokhruz_portfolio](https://t.me/shokhruz_portfolio)
 
