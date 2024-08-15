@@ -15,14 +15,16 @@
 
 - 💬 **Ask me about:** HTML, CSS, SCSS, Bootstrap, Tailwind CSS, JavaScript, React.js, TypeScript, Next.js, Node.js, Express.js, MongoDB
 
-- 📫 **Contact me at:** [shokhruzisroilov@mail.ru](mailto:shokhruzisroilov@mail.ru)
+- 📫 **Contact me at:**
+  - [Telegram](https://t.me/shokhruzisroilov)
+  - [LinkedIn](https://www.linkedin.com/in/shokhruzisroilov/)
+  - [YouTube](https://www.youtube.com/@shokhruzisroilov)
 
 - 📄 **Check out my experiences and portfolio:** [Telegram](https://t.me/shokhruz_portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shokhruzisroilov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shohruz_isroilov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@shokhruzisroilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
