@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shokhruz Isroilov</h1>
-<h3 align="center">A passionate Frontend Developer | React & Next.js Enthusiast | UI/UX Lover</h3>
+# Hi 👋, I'm Shokhruz Isroilov
+
+### A Passionate Frontend Developer | React & Next.js Enthusiast | UI/UX Lover
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shokhruzisroilov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,13 +10,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year student at TUIT (Tashkent University of Information Technologies), Qarshi Branch
-- 🌱 Currently mastering **Frontend Development**, focusing on **React**, **Next.js**, **TypeScript**, and **MERN Stack**
-- 👨‍💻 Collaborating with [ExcelLance Team](https://excellance-team.vercel.app/)
-- 🧠 Always improving my skills in HTML5, CSS3, JavaScript, SCSS, Tailwind CSS, Bootstrap, Redux Toolkit, and more
-- 🎯 Goal: Become a professional Frontend Developer
-- 🌐 Portfolio: [shohruzisroilov.uz](https://shohruzisroilov.uz/)
-- ✍️ Sharing knowledge on Telegram: [@shokhruzisroilov](https://t.me/shokhruzisroilov)
+- 🎓 **Final-year student at TUIT (Tashkent University of Information Technologies), Qarshi Branch**  
+- 🌱 **Currently mastering Frontend Development**, focusing on **React**, **Next.js**, **TypeScript**, and the **MERN Stack**  
+- 👨‍💻 Collaborating with **[ExcelLance Team](https://excellance-team.vercel.app/)**  
+- 🧠 **Always improving** my skills in **HTML5**, **CSS3**, **JavaScript**, **SCSS**, **Tailwind CSS**, **Bootstrap**, **Redux Toolkit**, and more  
+- 🎯 **Goal:** Become a professional Software Engineer  
+- 🌐 **Portfolio:** [shohruzisroilov.uz](https://shohruzisroilov.uz/)  
+- ✍️ **Sharing knowledge on Telegram:** [@shokhruzisroilov](https://t.me/shokhruzisroilov)
 
 ---
 
@@ -55,11 +56,10 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Website: [shohruzisroilov.uz](https://shohruzisroilov.uz)
-- 💬 Telegram: [@shokhruzisroilov](https://t.me/shokhruzisroilov)
-- ✉️ Email: isroilovshokhruz@gmail.com
+- 🌐 **Website:** [shohruzisroilov.uz](https://shohruzisroilov.uz) — Here you can find all my projects and contact information.
+- 💬 **Telegram:** [@shokhruzisroilov](https://t.me/shokhruzisroilov) — For professional discussions and project collaboration.
+- ✉️ **Email:** isroilovshokhruz@gmail.com — For business inquiries and freelance opportunities.
 
 ---
 
-> “Code is not just code, it's a craft.”
-
+> **“Code is not just code, it's a craft. Each line reflects my dedication and passion for building meaningful software.”**
