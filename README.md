@@ -56,10 +56,10 @@
 
 ### 📬 Let's Connect
 
-- 🌐 **Website:** [shohruzisroilov.uz](https://shohruzisroilov.uz) — Here you can find all my projects and contact information.
-- 💬 **Telegram:** [@shokhruzisroilov](https://t.me/shokhruzisroilov) — For professional discussions and project collaboration.
-- ✉️ **Email:** isroilovshokhruz@gmail.com — For business inquiries and freelance opportunities.
+- 🌐 **Website:** [shohruzisroilov.uz](https://shohruzisroilov.uz)
+- 💬 **Telegram:** [@shokhruzisroilov](https://t.me/shokhruzisroilov)
+- ✉️ **Email:** isroilovshokhruz@gmail.com
 
 ---
 
-> **“Code is not just code, it's a craft. Each line reflects my dedication and passion for building meaningful software.”**
+> **“Keep going!.”**
