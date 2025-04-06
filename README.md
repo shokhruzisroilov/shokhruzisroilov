@@ -11,10 +11,9 @@
 
 - 🎓 Final-year student at TUIT (Tashkent University of Information Technologies), Qarshi Branch
 - 🌱 Currently mastering **Frontend Development**, focusing on **React**, **Next.js**, **TypeScript**, and **MERN Stack**
-- 🚀 Building real-world projects like **RentEx**, **Folowbite**, and my personal **Blog website**
 - 👨‍💻 Collaborating with [ExcelLance Team](https://excellance-team.vercel.app/)
 - 🧠 Always improving my skills in HTML5, CSS3, JavaScript, SCSS, Tailwind CSS, Bootstrap, Redux Toolkit, and more
-- 🎯 Goal: Become a professional Frontend Developer and launch my own online course
+- 🎯 Goal: Become a professional Frontend Developer
 - 🌐 Portfolio: [shohruzisroilov.uz](https://shohruzisroilov.uz/)
 - ✍️ Sharing knowledge on Telegram: [@shokhruzisroilov](https://t.me/shokhruzisroilov)
 
@@ -58,7 +57,7 @@
 
 - 🌐 Website: [shohruzisroilov.uz](https://shohruzisroilov.uz)
 - 💬 Telegram: [@shokhruzisroilov](https://t.me/shokhruzisroilov)
-- ✉️ Email: isroilovshoxruz@gmail.com
+- ✉️ Email: isroilovshokhruz@gmail.com
 
 ---
 
