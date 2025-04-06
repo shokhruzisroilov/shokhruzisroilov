@@ -9,13 +9,16 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year student at TUIT (Tashkent University of Information Technologies), Qarshi Branch
+- 🎓 Final-year student at TUIT (Tashkent University of Information Technologies), Karshi Branch
 - 🌱 Currently mastering **Frontend Development**, focusing on **React**, **Next.js**, **TypeScript**, and **MERN Stack**
 - 👨‍💻 Collaborating with [ExcelLance Team](https://excellance-team.vercel.app/)
 - 🧠 Always improving my skills in **HTML5**, **CSS3**, **JavaScript**, **SCSS**, **Tailwind CSS**, **Bootstrap**, **Redux Toolkit**, and more
 - 🎯 Goal: Become a professional Software Engineer
 - 🌐 Portfolio: [shohruzisroilov.uz](https://shohruzisroilov.uz/)
 - ✍️ Sharing knowledge on Telegram: [@shokhruzisroilov](https://t.me/shokhruzisroilov)
+- 💬 I am fluent in **English** at a **B2 level**, and I constantly work to improve my skills.
+- 🎥 Creating educational content on **YouTube** and sharing insights and tutorials with my audience.
+- 🖥️ I manage a **Telegram channel** called **[Frontend for Web](https://t.me/frontendforweb)**, where I share front-end development resources, tutorials, and insights.
 
 ---
 
@@ -26,6 +29,14 @@
 
 - 🌐 **Telegram Channel:** I manage the **[Frontend for Web](https://t.me/frontendforweb)** channel, where I share tutorials, resources, and discussions about **Frontend Development** in both English and Uzbek. Join to stay updated with the latest trends and best practices!  
   [Telegram Channel](https://t.me/frontendforweb)
+
+---
+
+### 🧩 Hobbies & Interests
+
+- 💡 Passionate about **UI/UX Design** and creating **intuitive interfaces** that provide an exceptional user experience.
+- 📚 **Learning new technologies** and keeping up with the latest trends in **Frontend Development**.
+- 🌍 Interested in **travel**, **photography**, and discovering new cultures.
 
 ---
 
@@ -73,4 +84,4 @@
 
 ---
 
-> “Code is not just code, it's a craft.”
+> “Keep going!.”
