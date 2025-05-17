@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year student at TUIT (Tashkent University of Information Technologies), Karshi Branch
+- 🎓 Graduating this year from the **Tashkent University of Information Technologies (TUIT), Karshi Branch**
 - 🌱 Currently mastering **Frontend Development**, focusing on **React**, **Next.js**, **TypeScript**, and **MERN Stack**
 - 👨‍💻 Collaborating with [ExcelLance Team](https://excellance-team.vercel.app/)
 - 🧠 Always improving my skills in **HTML5**, **CSS3**, **JavaScript**, **SCSS**, **Tailwind CSS**, **Bootstrap**, **Redux Toolkit**, and more
