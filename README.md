@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shohruz Isroilov</h1>
-<h3 align="left">Frontend Developer | React.js, Next.js & TypeScript</h3>
+<h3 align="left">A passionate frontend developer from Uzbekistan</h3>
 
 ---
 
@@ -8,9 +8,6 @@ Frontend developer with **2+ years** experience in **React.js**, **Next.js**, an
 Passionate about **clean code**, **responsive design**, and **user-friendly interfaces**.
 
 ---
-
-### 📍 Location
-Tashkent, Uzbekistan
 
 ### 💼 Current Position
 **Frontend Developer** at **IT Investments Center** ([itic.uz](https://itic.uz))
