@@ -51,14 +51,14 @@ Final Score: 78% | *2022-09-15 - 2023-05-15*
 ## 💻 Skills
 
 **Languages:** JavaScript (ES6+), TypeScript  
-**Frontend:** React.js, Next.js, Vue.js, Nuxt.js  
+**Frontend:** React.js, Next.js,
 **Styling:** Tailwind CSS, SCSS, Material UI, Ant Design, ShadCN  
 **Tools & Others:** Git, GitHub, GitLab, Vite, REST API, Axios, Figma, ESLint, Prettier  
 **Concepts:** Component-based Architecture, Reusable UI, Responsive Design, State Management  
-**Testing:** Jest, Cypress, React Testing Library  
+**Testing:** Jest, React Testing Library  
 **CI/CD & Deployment:** GitHub Actions, Vercel, Netlify  
 **Architecture & Practices:** Atomic Design, Clean Code Principles  
-**Soft Skills:** Mentorship, Code Review, Agile/Scrum
+**Soft Skills:** Mentorship, Code Review
 
 ---
 
