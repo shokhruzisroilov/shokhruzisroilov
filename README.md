@@ -1,69 +1,40 @@
 <h1 align="center">Hi 👋, I'm Shohruz Isroilov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Frontend Developer | React.js, Next.js & TypeScript</h3>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov"><img src="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov" alt="GitHub Trophy" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov">
+    <img src="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Frontend developer with 2 years of experience, skilled in **React.js, Next.js, and TypeScript**. Experienced in building complex web projects in team environments, with a focus on **clean code** and **polished design**.
-
----
-
-## 🚀 Experience
-
-**IT Investments Center — Frontend Developer**  
-*2025-07-10 - Present*  
-Working on multiple web projects using **Next.js** and **TypeScript**.
-
-**Freelancer — Full-Stack Web Developer**  
-*2023-06-15 - 2025-06-25*  
-Built websites from landing pages to full-stack MERN applications, handling both frontend and backend tasks.
-
-**Mentor — Frontend Developer**  
-*2023-10-01 - 2024-01-30*  
-Taught **React.js, Redux, and Figma** to beginner and intermediate students, guiding them in real-world project development.
+Frontend developer with 2+ years of experience in building responsive and scalable web applications. Skilled in **React.js, Next.js, TypeScript**, and clean, maintainable code.  
 
 ---
 
 ## 🛠 Projects
 
-| Project | Demo / Live Site | GitHub | Tech Stack | Role | Key Features |
-|---------|-----------------|--------|------------|------|--------------|
-| CreativeTech | [Live Site](https://creativetech.uz/) | Private | React.js, TypeScript | Frontend Developer | Admin panel responsivity, clean UI |
-| Uzca | [Live Site](https://uzca.uz/) | Private | React, JS | Frontend Developer | Minor updates, responsive fixes |
-| Idimzo — User Site | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) | Next.js, TypeScript | Frontend Developer | Fully responsive user interface |
-| Idimzo — Admin Panel | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) | React.js, TypeScript | Frontend Developer | Functional admin panel (except documents module) |
-| Weather App — Real-time Weather | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) | React.js, TypeScript | Frontend Developer | Real-time weather updates, responsive design |
-| Kamronbek's Portfolio Website | [Live Site](https://kamronbek.design) | Private | React, JS | Frontend Developer | Pixel-perfect Figma design, responsive layout |
-| InvestIQ — Financial Learning Platform | [Live Site](https://investiq.uz) | Private | MERN (JS) | Full Stack Developer | Educational platform, user dashboards |
-| Dreams Shop — E-commerce | [Live Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) | React, JS | Frontend Developer | Product listing, filtering, responsive design |
-
----
-
-## 🎓 Education
-
-**Tashkent University of Information Technologies, Qarshi Branch**  
-Bachelor's Degree in Computer Science | GPA: 4.4 / 4.6 | *2021 - 2025*
-
-**Open Web Academy — Frontend Development Course**  
-Final Score: 78% | *2022-09-15 - 2023-05-15*
+| Project | Live | GitHub | Tech | Role | Highlights |
+|---------|------|--------|------|------|-----------|
+| CreativeTech | [Site](https://creativetech.uz/) | Private | React.js, TS | Frontend | Admin panel responsive, clean UI |
+| Uzca | [Site](https://uzca.uz/) | Private | React, JS | Frontend | Minor updates, responsive fixes |
+| Idimzo — User | [Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) | Next.js, TS | Frontend | Fully responsive |
+| Idimzo — Admin | [Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) | React.js, TS | Frontend | Functional admin panel |
+| Weather App | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) | React.js, TS | Frontend | Real-time weather, responsive |
+| Kamronbek Portfolio | [Site](https://kamronbek.design) | Private | React, JS | Frontend | Pixel-perfect, responsive |
+| InvestIQ | [Site](https://investiq.uz) | Private | MERN (JS) | Full Stack | Educational platform |
+| Dreams Shop | [Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) | React, JS | Frontend | E-commerce, API integration |
 
 ---
 
 ## 💻 Skills
-
-**Languages:** JavaScript (ES6+), TypeScript  
-**Frontend:** React.js, Next.js,
+**Languages:** JS, TS  
+**Frontend:** React.js, Next.js  
 **Styling:** Tailwind CSS, SCSS, Material UI, Ant Design, ShadCN  
-**Tools & Others:** Git, GitHub, GitLab, Vite, REST API, Axios, Figma, ESLint, Prettier  
-**Concepts:** Component-based Architecture, Reusable UI, Responsive Design, State Management  
-**Testing:** Jest, React Testing Library  
-**CI/CD & Deployment:** GitHub Actions, Vercel, Netlify  
-**Architecture & Practices:** Atomic Design, Clean Code Principles  
-**Soft Skills:** Mentorship, Code Review
+**Tools:** Git, GitHub, Vite, Axios, REST API, Figma  
+**Practices:** Responsive Design, Component-based Architecture, Clean Code  
 
 ---
 
@@ -76,7 +47,7 @@ Final Score: 78% | *2022-09-15 - 2023-05-15*
 
 ## 📫 Contact
 - Email: isroilovshokhruz@gmail.com  
-- LinkedIn: [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/) 
+- LinkedIn: [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/)  
 
 ---
 
