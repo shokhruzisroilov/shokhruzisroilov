@@ -32,9 +32,14 @@ Taught **React.js, Redux, and Figma** to beginner and intermediate students, gui
 
 | Project | Demo | GitHub |
 |---------|------|--------|
-| Dreams Shop — E-commerce | [Demo](https://dreamsshop-demo-link.com) | [GitHub](https://github.com/shokhruzisroilov/dreams-shop) |
-| InvestlQ — Financial Learning Platform | [Demo](https://investlq-demo-link.com) | [GitHub](https://github.com/shokhruzisroilov/investlq) |
-| Portfolio Website for UI/UX Designer | [Demo](https://portfolio-demo-link.com) | [GitHub](https://github.com/shokhruzisroilov/uiux-portfolio) |
+| CreativeTech | [Live Site](https://creativetech.uz/) | Private |
+| Uzca | [Live Site](https://uzca.uz/) | Private |
+| Idimzo user site | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) |
+| Idimzo admin panel | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) |
+| Weather App — Real-time Weather | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) |
+| Kamronbek's Portfolio Website for UI/UX designer | [Live Site](https://kamronbek.design) | Private |
+| InvestIQ — Financial Learning Platform | [Live Site](https://investiq.uz) | Private |
+| Dreams Shop — E-commerce | [Live Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) |
 
 ---
 
