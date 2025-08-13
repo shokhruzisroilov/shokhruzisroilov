@@ -1,26 +1,19 @@
-<h1 align="left">👋 Shohruz Isroilov</h1>
+<h1 align="left">I'm 👋 Shohruz Isroilov</h1>
 <h3 align="left">Frontend Developer</h3>
 
 ---
 
-### 📍 Location  
-Tashkent, Uzbekistan  
-
-### 💼 Current Position  
-**Frontend Developer** at **IT Investments Center**  
-Working on several web projects using **Next.js** and **TypeScript**.
+### 📝 About Me
+Frontend developer with **2+ years** experience in **React.js**, **Next.js**, and **TypeScript**.  
+Passionate about **clean code**, **responsive design**, and **user-friendly interfaces**.
 
 ---
 
-### 📬 Contact Me
-- 📞 **Phone:** +998 (94) 008-04-73  
-- 📧 **Email:** [isroilovshokhruz@gmail.com](mailto:isroilovshokhruz@gmail.com)  
-- 🌐 **Portfolio:** [shokhruzisroilov.uz](https://www.shokhruzisroilov.uz/portfolio)  
-- 💼 **LinkedIn:** [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/)  
-- 🐙 **GitHub:** [shokhruzisroilov](https://github.com/shokhruzisroilov)  
-- 📷 **Instagram:** [@shohruz_isroilov](https://www.instagram.com/shohruz_isroilov/)  
-- 📢 **Telegram:** [@shohruz_isroilov](https://t.me/shohruz_isroilov)  
-- ▶️ **YouTube:** [Frontend Tips & Projects](#)
+### 📍 Location
+Tashkent, Uzbekistan
+
+### 💼 Current Position
+**Frontend Developer** at **IT Investments Center** ([itic.uz](https://itic.uz))
 
 ---
 
@@ -36,15 +29,19 @@ Working on several web projects using **Next.js** and **TypeScript**.
 
 ---
 
-### 📝 About Me  
-Frontend developer with **2+ years** of experience.  
-Proficient in **React.js**, **Next.js**, and **TypeScript**.  
-Passionate about **clean code**, **responsive design**, and **user-friendly interfaces**.  
-Experienced in building complex web projects in team environments.
+### 🌍 Languages
+- 🇺🇿 Uzbek — Fluent
+- 🇬🇧 English — Advanced
+- 🇷🇺 Russian — Intermediate
 
 ---
 
-### 🌍 Languages
-- 🇺🇿 Uzbek — Fluent  
-- 🇬🇧 English — Advanced  
-- 🇷🇺 Russian — Intermediate  
+### 📬 Contact Me
+- 📞 **Phone:** +998 (94) 008-04-73  
+- 📧 **Email:** [isroilovshokhruz@gmail.com](mailto:isroilovshokhruz@gmail.com)  
+- 🌐 **Portfolio:** [shokhruzisroilov.uz](https://www.shokhruzisroilov.uz/portfolio)  
+- 💼 **LinkedIn:** [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/)  
+- 🐙 **GitHub:** [shokhruzisroilov](https://github.com/shokhruzisroilov)  
+- 📷 **Instagram:** [@shohruz_isroilov](https://www.instagram.com/shohruz_isroilov/)  
+- 📢 **Telegram:** [@shohruz_isroilov](https://t.me/shohruz_isroilov)  
+- ▶️ **YouTube:** [Frontend Tips & Projects](#)
