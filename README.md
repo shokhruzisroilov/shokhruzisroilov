@@ -76,9 +76,7 @@ Final Score: 78% | *2022-09-15 - 2023-05-15*
 
 ## 📫 Contact
 - Email: isroilovshokhruz@gmail.com  
-- Phone: +998 (94) 008-04-73  
-- LinkedIn: [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/)  
-- GitHub: [shokhruzisroilov](https://github.com/shokhruzisroilov)  
+- LinkedIn: [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/) 
 
 ---
 
