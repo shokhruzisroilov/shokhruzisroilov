@@ -84,5 +84,4 @@ Final Score: 78% | *2022-09-15 - 2023-05-15*
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shokhruzisroilov&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shokhruzisroilov&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokhruzisroilov" alt="GitHub Streak" />
 </p>
