@@ -2,7 +2,7 @@
 
 **A passionate frontend developer from Uzbekistan**  
 
-[![Visitor Count](https://profile-counter.glitch.me/shokhruzisroilov/count.svg)](https://github.com/shokhruzisroilov)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
 
 ---
 
