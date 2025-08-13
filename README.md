@@ -49,17 +49,23 @@ Tashkent, Uzbekistan
 ---
 
 ### 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-isroilovshokhruz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isroilovshokhruz@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shokhruzisroilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokhruzisroilov/)  
-[![GitHub](https://img.shields.io/badge/GitHub-shokhruzisroilov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shokhruzisroilov)  
-[![Instagram](https://img.shields.io/badge/Instagram-@shohruz_isroilov-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shohruz_isroilov/)  
-[![Telegram](https://img.shields.io/badge/Telegram-@shohruz_isroilov-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shohruz_isroilov)
+<p>
+  <a href="mailto:isroilovshokhruz@gmail.com"><img src="https://img.shields.io/badge/Email-isroilovshokhruz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shokhruzisroilov/"><img src="https://img.shields.io/badge/LinkedIn-shokhruzisroilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shokhruzisroilov"><img src="https://img.shields.io/badge/GitHub-shokhruzisroilov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+<p>
+  <a href="https://www.instagram.com/shohruz_isroilov/"><img src="https://img.shields.io/badge/Instagram-@shohruz_isroilov-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/shohruz_isroilov"><img src="https://img.shields.io/badge/Telegram-@shohruz_isroilov-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
 ---
 
 ### 🛠 Projects
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge)](https://www.shokhruzisroilov.uz/portfolio)  
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github)](https://github.com/shokhruzisroilov?tab=repositories)
+<p>
+  <a href="https://www.shokhruzisroilov.uz/portfolio"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/shokhruzisroilov?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github" alt="GitHub Repositories" /></a>
+</p>
 
 ---
 
