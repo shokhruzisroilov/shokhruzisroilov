@@ -30,14 +30,16 @@ Taught **React.js, Redux, and Figma** to beginner and intermediate students, gui
 
 ## 🛠 Projects
 
-**[Dreams Shop — E-commerce](#) | [GitHub](#)**  
-Modern e-commerce frontend using **React, Redux, and Axios** with backend API integration. Responsive design and product filtering.
+| Project | Demo | GitHub |
+|---------|------|--------|
+| **Dreams Shop — E-commerce** | [Live Demo](https://dreamsshop-demo-link.com) | [GitHub Repo](https://github.com/shokhruzisroilov/dreams-shop) |
+| Modern e-commerce frontend using **React, Redux, Axios**. Fully responsive design with product filtering and smooth UX. | | |
 
-**[InvestlQ — Financial Learning Platform](#) | [GitHub](#)**  
-Financial learning platform built with the **MERN stack**, featuring quizzes and articles for financial literacy.
+| **InvestlQ — Financial Learning Platform** | [Live Demo](https://investlq-demo-link.com) | [GitHub Repo](https://github.com/shokhruzisroilov/investlq) |
+| Built with the **MERN stack**. Features quizzes, articles, and user-friendly interface to improve financial literacy. | | |
 
-**[Portfolio Website for UI/UX Designer](#) | [GitHub](#)**  
-Personal portfolio website using **React and Tailwind CSS**, based on a Figma design. Pixel-perfect and fully responsive.
+| **Portfolio Website for UI/UX Designer** | [Live Demo](https://portfolio-demo-link.com) | [GitHub Repo](https://github.com/shokhruzisroilov/uiux-portfolio) |
+| Personal portfolio website using **React and Tailwind CSS** based on a Figma design. Pixel-perfect and fully responsive. | | |
 
 ---
 
