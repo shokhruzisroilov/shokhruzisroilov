@@ -75,5 +75,4 @@ Final Score: 78% | *2022-09-15 - 2023-05-15*
 
 ## 📊 GitHub Stats
 ![Shohruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shokhruzisroilov&show_icons=true&theme=radical)  
-![Shohruz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shokhruzisroilov&layout=compact&theme=radical)  
-![Shohruz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shokhruzisroilov&theme=radical)
+![Shohruz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shokhruzisroilov&layout=compact&theme=radical)
