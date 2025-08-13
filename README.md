@@ -79,7 +79,7 @@ Currently working on multiple web projects using **Next.js** and **TypeScript**.
 *2023-06-15 - 2025-06-25*  
 Developed various websites from landing pages to full-stack MERN applications, handling both frontend and backend tasks.
 
-**Online Course Instructor** — Frontend Mentor  
+**Online Course** — Frontend Mentor  
 *2023-10-01 - 2024-01-30*  
 Taught **React.js, Redux, and Figma** to beginner and intermediate students, helping them build real-world projects.
 
