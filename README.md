@@ -2,12 +2,10 @@
 
 **A passionate frontend developer from Uzbekistan**  
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
-
 ---
 
 ## 🚀 Currently Working On
-[![GitHub Project](https://img.shields.io/badge/Projects-IT%20Investments%20Center-blue)](https://github.com/shokhruzisroilov?tab=repositories)
+[![GitHub Project](https://img.shields.io/badge/Projects-IT%20Investments%20Center-blue)](https://itic.uz/)
 
 ---
 
