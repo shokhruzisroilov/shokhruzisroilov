@@ -20,11 +20,11 @@ Frontend developer with 2 years of experience, skilled in **React.js, Next.js, a
 *2025-07-10 - Present*  
 Working on multiple web projects using **Next.js** and **TypeScript**.
 
-**Freelance Projects — Full-Stack Web Developer**  
+**Freelancer — Full-Stack Web Developer**  
 *2023-06-15 - 2025-06-25*  
 Built websites from landing pages to full-stack MERN applications, handling both frontend and backend tasks.
 
-**Online Course Instructor — Frontend Mentor**  
+**Mentor — Frontend Developer**  
 *2023-10-01 - 2024-01-30*  
 Taught **React.js, Redux, and Figma** to beginner and intermediate students, guiding them in real-world project development.
 
