@@ -16,16 +16,9 @@ Frontend developer with 2+ years of experience in building responsive and scalab
 
 ## 🛠 Projects
 
-| Project | Live | GitHub | Tech | Role | Highlights |
-|---------|------|--------|------|------|-----------|
-| CreativeTech | [Site](https://creativetech.uz/) | Private | React.js, TS | Frontend | Admin panel responsive, clean UI |
-| Uzca | [Site](https://uzca.uz/) | Private | React, JS | Frontend | Minor updates, responsive fixes |
-| Idimzo — User | [Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) | Next.js, TS | Frontend | Fully responsive |
-| Idimzo — Admin | [Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) | React.js, TS | Frontend | Functional admin panel |
-| Weather App | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) | React.js, TS | Frontend | Real-time weather, responsive |
-| Kamronbek Portfolio | [Site](https://kamronbek.design) | Private | React, JS | Frontend | Pixel-perfect, responsive |
-| InvestIQ | [Site](https://investiq.uz) | Private | MERN (JS) | Full Stack | Educational platform |
-| Dreams Shop | [Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) | React, JS | Frontend | E-commerce, API integration |
+📌 **Portfolio & Repositories**  
+- Shohruz Isroilov Portfolio: [shokhruzisroilov.uz/portfolio](https://www.shokhruzisroilov.uz/portfolio)  
+- GitHub Repositories: [github.com/shokhruzisroilov?tab=repositories](https://github.com/shokhruzisroilov?tab=repositories)
 
 ---
 
