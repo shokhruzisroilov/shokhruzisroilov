@@ -1,68 +1,82 @@
-<h1>Hi 👋, I'm Shohruz Isroilov</h1>
-<h3>Frontend Developer | React.js, Next.js & TypeScript</h3>
+# Hi all, I'm Shohruz Isroilov 👋
 
-<a href="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov">
-  <img src="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov" alt="GitHub Trophy" />
-</a>
+**Frontend Developer | React.js, Next.js & TypeScript**  
+📍 Tashkent, Uzbekistan  
+📞 +998 94 008-04-73  
+✉️ isroilovshokhruz@gmail.com  
+🌐 [Portfolio](https://www.shokhruzisroilov.uz/portfolio) | [GitHub](https://github.com/shokhruzisroilov?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/shokhruzisroilov/)
 
 ---
 
 ## 👨‍💻 About Me
-🚀 Frontend developer with 2+ years of experience building **responsive and scalable** web applications. Skilled in **React.js, Next.js, TypeScript**, and creating **clean, maintainable code**.  
+Frontend developer with **2+ years of experience** in building responsive and scalable web apps. Skilled in **React.js, Next.js, TypeScript**, and writing **clean, maintainable code**. Experienced in working in team environments and delivering polished designs.
+
+---
+
+## 💼 Experience
+
+**IT Investments Center** — Frontend Developer  
+*2025-07-10 - Present*  
+Working on multiple web projects using **Next.js** and **TypeScript**.
+
+**Freelance Projects** — Full-Stack Web Developer  
+*2023-06-15 - 2025-06-25*  
+Developed various websites, from landing pages to full-stack MERN applications. Handled frontend and backend tasks, gaining diverse hands-on experience.
+
+**Online Course Instructor** — Frontend Mentor & Instructor  
+*2023-10-01 - 2024-01-30*  
+Taught **React.js, Redux, Figma** to beginner and intermediate students, guiding them in building real-world projects.
 
 ---
 
 ## 🛠 Projects
 
-### 🌐 Portfolio & Repositories
-- <a href="https://www.shokhruzisroilov.uz/portfolio">Portfolio Site</a>  
-- <a href="https://github.com/shokhruzisroilov?tab=repositories">GitHub Repositories</a>
-
-### Featured Projects (Cards Style)
-
 | Project | Tech Stack | Demo / GitHub |
 |---------|-----------|---------------|
-| **CreativeTech** | React.js, TypeScript | [Live Site](https://creativetech.uz/) |
-| **Uzca** | React, JS | [Live Site](https://uzca.uz/) |
-| **Idimzo — User** | Next.js, TypeScript | [Live Site](https://idimzo.uz/) &#124; [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) |
-| **Idimzo — Admin** | React.js, TypeScript | [Live Site](https://idimzo.uz/) &#124; [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) |
-| **Weather App** | React.js, TypeScript | [Demo](https://weather-app-tau-pied-42.vercel.app) &#124; [GitHub](https://github.com/shokhruzisroilov/weather_app) |
-| **Kamronbek Portfolio** | React, JS | [Live Site](https://kamronbek.design) |
-| **InvestIQ** | MERN (JS) | [Live Site](https://investiq.uz) |
-| **Dreams Shop** | React, JS | [Live Site](https://dreams-shop.vercel.app/) &#124; [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) |
+| **Dreams Shop — E-commerce** | React, Redux, Axios | [Live](https://dreams-shop.vercel.app/) &#124; [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) |
+| **InvestIQ — Financial Learning Platform** | MERN (JS) | [Live](https://investiq.uz) |
+| **Portfolio Website for UI/UX Designer** | React, Tailwind CSS | [Live](https://kamronbek.design) |
+
+---
+
+## 🎓 Education
+
+**Tashkent University of Information Technologies, Qarshi Branch**  
+Bachelor's Degree in Computer Science | GPA: 4.4 / 4.6 | *2021 - 2025*
+
+**Open Web Academy** — Frontend Development Course  
+Final Score: 78% | *2022-09-15 - 2023-05-15*
 
 ---
 
 ## 💻 Skills
 
-**Languages & Frameworks:**  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-**Styling & UI:**  
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-<img src="https://img.shields.io/badge/ShadCN-111827?style=for-the-badge&logoColor=white" />
+**Languages:** JavaScript (ES6+), TypeScript  
+**Frameworks & Libraries:** React.js, Next.js, Vue.js, Nuxt.js  
+**Styling:** Tailwind CSS, SCSS, Material UI, Ant Design, ShadCN  
+**Tools & Others:** Git, GitHub, GitLab, Vite, REST API, Axios, Figma, ESLint, Prettier  
+**Concepts & Practices:** Component-based Architecture, Reusable UI, Responsive Design, State Management, Atomic Design, Clean Code Principles  
+**Testing:** Jest, Cypress, React Testing Library  
+**Deployment & CI/CD:** GitHub Actions, Vercel, Netlify  
+**Soft Skills:** Mentorship, Code Review, Agile/Scrum
 
 ---
 
 ## 🌐 Languages
-<img src="https://img.shields.io/badge/Uzbek-Fluent-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Russian-Intermediate-orange?style=for-the-badge" />
-
----
-
-## 📫 Contact
-<a href="mailto:isroilovshokhruz@gmail.com"><img src="https://img.shields.io/badge/Email-isroilovshokhruz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shokhruzisroilov/"><img src="https://img.shields.io/badge/LinkedIn-shokhruzisroilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- Uzbek — Fluent  
+- English — Advanced  
+- Russian — Intermediate
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=shokhruzisroilov&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shokhruzisroilov&show_icons=true&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=shokhruzisroilov&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shokhruzisroilov&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+
+---
+
+## 📫 Contact
+- Email: isroilovshokhruz@gmail.com  
+- LinkedIn: [shokhruzisroilov](https://www.linkedin.com/in/shokhruzisroilov/)  
+- Portfolio: [shokhruzisroilov.uz/portfolio](https://www.shokhruzisroilov.uz/portfolio)  
+- GitHub: [github.com/shokhruzisroilov](https://github.com/shokhruzisroilov?tab=repositories)
