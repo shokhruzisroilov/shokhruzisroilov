@@ -23,14 +23,9 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+**Frontend:** React · Next.js · TypeScript · TailwindCSS  
+**Backend:** Node.js · MongoDB  
+**Tools:** Git · VS Code · Figma · Vercel  
 
 ---
 
