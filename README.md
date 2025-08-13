@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 2+ years Frontend experience, currently @ **IT Investments Center** (Next.js & TypeScript)  
+- 2+ years Frontend experience, currently @ **IT Investments Center** (Next.js & React.js)  
 - Freelance & open-source projects  
 - React.js, Redux & Figma instructor  
 - 📍 Tashkent, Uzbekistan | English: B2  
