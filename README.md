@@ -32,14 +32,14 @@ Taught **React.js, Redux, and Figma** to beginner and intermediate students, gui
 
 | Project | Demo / Live Site | GitHub | Tech Stack | Role | Key Features |
 |---------|-----------------|--------|------------|------|--------------|
-| CreativeTech | [Live Site](https://creativetech.uz/) | Private | React, TailwindCSS | Frontend Developer | Admin panel responsivity, clean UI |
-| Uzca | [Live Site](https://uzca.uz/) | Private | React, TailwindCSS | Frontend Developer | Minor updates, responsive fixes |
-| Idimzo — User Site | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) | React, TailwindCSS | Frontend Developer | Fully responsive user interface |
-| Idimzo — Admin Panel | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) | React, TailwindCSS | Frontend Developer | Functional admin panel (except documents module) |
-| Weather App — Real-time Weather | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) | React, Redux Toolkit, React Query, Axios, TailwindCSS | Frontend Developer | Real-time weather updates, responsive design, API integration |
-| Kamronbek's Portfolio Website | [Live Site](https://kamronbek.design) | Private | React, TailwindCSS | Frontend Developer | Pixel-perfect Figma design, responsive layout, smooth animations |
-| InvestIQ — Financial Learning Platform | [Live Site](https://investiq.uz) | Private | MERN Stack (MongoDB, Express, React, Node.js) | Full Stack Developer | Educational platform, user dashboards, responsive design |
-| Dreams Shop — E-commerce | [Live Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) | React, Redux, Axios, Swiper | Frontend Developer | Product listing, filtering, responsive design, API integration, admin panel |
+| CreativeTech | [Live Site](https://creativetech.uz/) | Private | React, JS | Frontend Developer | Admin panel responsivity, clean UI |
+| Uzca | [Live Site](https://uzca.uz/) | Private | React, JS | Frontend Developer | Minor updates, responsive fixes |
+| Idimzo — User Site | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_user_site.git) | React, JS | Frontend Developer | Fully responsive user interface |
+| Idimzo — Admin Panel | [Live Site](https://idimzo.uz/) | [GitHub](https://github.com/shokhruzisroilov/idimzo_adminpanel.git) | React, JS | Frontend Developer | Functional admin panel (except documents module) |
+| Weather App — Real-time Weather | [Demo](https://weather-app-tau-pied-42.vercel.app) | [GitHub](https://github.com/shokhruzisroilov/weather_app) | React, JS | Frontend Developer | Real-time weather updates, responsive design |
+| Kamronbek's Portfolio Website | [Live Site](https://kamronbek.design) | Private | React, JS | Frontend Developer | Pixel-perfect Figma design, responsive layout |
+| InvestIQ — Financial Learning Platform | [Live Site](https://investiq.uz) | Private | MERN (JS) | Full Stack Developer | Educational platform, user dashboards |
+| Dreams Shop — E-commerce | [Live Site](https://dreams-shop.vercel.app/) | [GitHub](https://github.com/shokhruzisroilov/dream-shop-e-commerse.git) | React, JS | Frontend Developer | Product listing, filtering, responsive design |
 
 ---
 
