@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohruz Isroilov</h1>
-<h3 align="center">Frontend Developer | React.js, Next.js, | Tashkent, Uzbekistan</h3>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov"><img src="https://github-profile-trophy.vercel.app/?username=shokhruzisroilov" alt="GitHub Trophy" /></a>
