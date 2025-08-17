@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shohruz Isroilov</h1>
+<h1 align="left">Hi 👋, I'm Shokhruz Isroilov</h1>
 <h3 align="left">A passionate frontend developer from Uzbekistan</h3>
 
 ---
