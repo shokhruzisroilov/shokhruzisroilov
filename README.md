@@ -77,7 +77,7 @@ Passionate about **clean code**, **responsive design**, and **user-friendly inte
 ---
 
 ### 📬 Contact Me
-<p align="center">
+<p align="left">
   <a href="mailto:isroilovshokhruz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -92,9 +92,13 @@ Passionate about **clean code**, **responsive design**, and **user-friendly inte
 ---
 
 ### 🛠 Projects
-<p>
-  <a href="https://www.shokhruzisroilov.uz/portfolio"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com/shokhruzisroilov?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github" alt="GitHub Repositories" /></a>
+<p align="left">
+  <a href="https://www.shokhruzisroilov.uz/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/shokhruzisroilov?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+  </a>
 </p>
 
 ---
