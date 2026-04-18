@@ -2,6 +2,10 @@
 
 **Frontend Developer** · React · Next.js · TypeScript · Tashkent, Uzbekistan
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shokhruzisroilov.uz-000000?style=flat&logo=safari&logoColor=white)](https://www.shokhruzisroilov.uz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shohruz_Isroilov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokhruzisroilov/)
+[![Telegram](https://img.shields.io/badge/Telegram-@shokhruzisroilov-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/shokhruzisroilov)
+
 ---
 
 Frontend developer with **2+ years** of experience building scalable web apps —
@@ -34,7 +38,3 @@ Recently diving deep into **AI model integration** in frontend applications.
 - 🎓 **TUIT** – Tashkent University of Information Technologies
 - 📍 Tashkent, Uzbekistan
 - 📬 Open to collaborations and new opportunities
-
----
-
-*Let's connect and build something great!*
