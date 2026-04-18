@@ -1,63 +1,40 @@
-# 👋 Hi, I'm Shohruz Isroilov
+# Hi, I'm Shohruz 👋
 
-💻 **Frontend Developer | Software Engineer**
-
-I specialize in building modern, scalable, and user-friendly web applications using **React.js, Next.js, TypeScript**, and modern UI technologies.
+**Frontend Developer** · React · Next.js · TypeScript · Tashkent, Uzbekistan
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working as a **Frontend Developer**
-- ⚡ Passionate about clean code & intuitive UI/UX
-- 🧠 Always learning new technologies and improving skills
-- 🤝 Open to **Frontend Developer opportunities**
-
-I enjoy turning complex problems into simple, beautiful, and performant interfaces.
+Frontend developer with **2+ years** of experience building scalable web apps —
+dashboards, LMS platforms, streaming systems, and task management tools.
+Currently working full-time at **IT Investments Center** in Tashkent.
+Recently diving deep into **AI model integration** in frontend applications.
 
 ---
 
-## 🌐 Connect with Me
+## 🛠 Tech Stack
 
-- 📧 Email: **shokhruzisroilov@gmail.com**
-- 📱 Phone: **+998 94 008 04 73**
-- 💬 Telegram: [@Shohruz_Isroilov](https://t.me/Shohruz_Isroilov)
-- 💼 LinkedIn: [linkedin.com/in/shokhruzisroilov](https://linkedin.com/in/shokhruzisroilov)
-- 🌍 Website: [shokhruzisroilov.uz](https://shokhruzisroilov.uz)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & DB**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 About Me
 
-### 💡 Languages
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+- 💼 Frontend Developer @ **IT Investments Center** (Jul 2025 – Present)
+- 🚀 Delivered **5+ projects**: dashboards, LMS, streaming & admin systems
+- 🤖 Actively integrating **AI features** into web applications
+- 🎓 **TUIT** – Tashkent University of Information Technologies
+- 📍 Tashkent, Uzbekistan
+- 📬 Open to collaborations and new opportunities
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+---
 
-### 🧠 State Management
-![Redux](https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-000?style=for-the-badge)
-
-### 🔗 Data Fetching
-![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🎨 UI & Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/shadcn-ui-000000?style=for-the-badge)
-
-### ⚙️ Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧪 Testing & DevOps
-![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/testing%20library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/ci%2Fcd-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+*Let's connect and build something great!*
